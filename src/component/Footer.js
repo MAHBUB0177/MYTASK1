@@ -39,7 +39,7 @@ const Footer = () => {
 
           </div>
         <div className='col-3'>
-        <h4 style={{color:'#644F9C',marginBottom:'10px',marginRight:'60px'}}>Documantation</h4>
+        <h4 style={{color:'#644F9C',marginBottom:'10px',marginRight:'30px'}}>Documantation</h4>
           
         <h6 style={{marginBottom:'10px'}}> Term&Privecy</h6>
           <h6 style={{marginBottom:'10px'}}> Policy</h6>
